@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+body{
+    background-color: #1E201E; 
+}
+
+nav ul{
+    list-style: none;
+    text-align: center;
+    background-color: #697565;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 0;
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav a{
+    color: #171a16;
+    text-decoration: none;
+    width: 100px;
+    display: block;
+}
+
+h1{
+
+    background-color: #3C3D37;
+    text-align: center;
+    padding: 20px;
+    color: aliceblue;
+    font-size: 30px;
+
+}
+
+a:hover{
+    background-color: #363b34;
+}
+

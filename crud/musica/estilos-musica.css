@@ -1,0 +1,118 @@
+.div1{
+    background-color: rgb(241, 202, 150);
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Helvetica', sans-serif;;
+    list-style: none;
+
+}
+
+.div2{
+    background-color: rgb(248, 180, 90);
+    height: 510px;
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    line-height: 5;
+    list-style: none;
+
+    
+}
+
+.div3{
+    background-color: rgb(164, 204, 240);
+    display: inline-block;
+    height: 510px;
+    width: 80%;
+}
+nav ul{
+    list-style: none;
+    text-align: center;
+    background-color: rgb(243, 184, 106);
+    padding-left: 50px;
+    padding-right: 50px;
+    position: relative;
+    top: 82px;
+
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav a{
+    color: #171a16;
+    text-decoration: none;
+    width: 100px;
+    display: block;
+    transition: .5s;
+}
+
+
+.boton{
+    border: 1px solid;
+padding: 10px; /*espacio alrededor texto*/
+background-color: #c09176; /*color botón*/
+color: #ffffff; /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 40px; /*bordes redondos*/
+}
+
+.btn1{
+    border: 1px solid;
+    padding: 10px;
+    background-color: #c09176;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 40px;
+}
+
+.btn2{
+    border: 1px solid;
+    padding: 10px;
+    background-color: #c09176;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 40px;
+}
+
+.btn3{
+    border: 1px solid;
+    padding: 10px;
+    background-color: #e09a71;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
+
+.bnt4{
+    border: 1px solid;
+    padding: 10px;
+    background-color: #e09a71;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
+a:hover{
+    color:dodgerblue;
+    transition: 800ms;    
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 30%;
+    padding-left: 0%;
+}
